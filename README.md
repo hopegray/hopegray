@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hopegray
-- 👀 I’m interested in learning machine language. My research is at the intersection of spiritual care and the electronic health record. I'm also researching self-reported symptoms of COVID-19.
-- 🌱 I’m currently learning python and natural laguage processing concepts.
-- 💞️ I’m looking to collaborate on a NLP project with one of my classmates. 
+- 👀 I’m learning data analytics and machine language. My research is at the intersection of spiritual care and the electronic health record. I'm also researching self-reported symptoms of COVID-19.
+- 🌱 I’m developing using python and I am learning about large language models.
 - 📫 How to reach me ... hopegray@uab.edu
 
 <!---
